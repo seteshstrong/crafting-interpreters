@@ -1,0 +1,19 @@
+{
+  "name": "crafting-interpreters",
+  "version": "1.0.0",
+  "description": "Workthrough of Robert Nystrom's Crafting Interpreters text",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seteshstrong/crafting-interpreters.git"
+  },
+  "author": "Setesh Saerai Strong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seteshstrong/crafting-interpreters/issues"
+  },
+  "homepage": "https://github.com/seteshstrong/crafting-interpreters#readme"
+}
