@@ -1,6 +1,7 @@
 {
   "name": "crafting-interpreters",
   "version": "1.0.0",
+  "type": "module",
   "description": "Workthrough of Robert Nystrom's Crafting Interpreters text",
   "main": "index.js",
   "scripts": {
